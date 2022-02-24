@@ -8,5 +8,4 @@
 | Sound engineer | I Wayan Angga & Samudra Nusantara |
 | 3d artist      | Yonata Reynaldi Daviero |
 | Designer       | Wikan Yoga       |
-| concept artist |  I Wayan Angga   |
 
