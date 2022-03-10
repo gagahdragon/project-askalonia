@@ -3,9 +3,8 @@
 
 | Job            | Assignee         |
 |----------------|------------------|
-| Writer         | Gagah Rizki      |
+| Game Designer  | Gagah Rizki & Wikan Yoga |
 | Programmer     | Abiyasa Musyafa  |
 | Sound engineer | I Wayan Angga & Samudra Nusantara |
 | 3d artist      | Yonata Reynaldi Daviero |
-| Designer       | Wikan Yoga       |
 
